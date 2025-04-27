@@ -1,0 +1,12 @@
+langchain
+langchain-google-genai
+langchain-groq
+faiss-cpu
+scikit-learn
+pandas
+openai
+pydantic
+openpyxl
+langchain-community
+dotenv
+langchain_community
